@@ -145,8 +145,6 @@ int findTheDayOfTheMonth(int date) //this could go year by year and it would be 
 	}
 }
 
-
-
 int findTheFirstDayMonthYear(int month, int year)
 {
 	//found the date for the first day of a given year month

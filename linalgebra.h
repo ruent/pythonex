@@ -1,5 +1,4 @@
- 
-#pragma once
+ #pragma once
 
 #include <vector>
 #include <algorithm> //for max_element
@@ -61,7 +60,6 @@ std::vector<double> solveEqn(std::vector<std::vector<double>> &Jac, std::vector<
 				{
 					index_of_max = i;
 				}
-
 				relative_col_max_prev = relative_col_max;
 			}
 		}

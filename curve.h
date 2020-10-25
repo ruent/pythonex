@@ -40,7 +40,6 @@ public:
 		curveSpotDate = points_values.begin()->first;
 		py::print(" ... curve initialized.");
 	}
-
 	
 	double dRateLogL(int date) const
 	{
